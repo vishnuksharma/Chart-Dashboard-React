@@ -1,0 +1,234 @@
+{
+    "chartType": [
+        {
+            "id": 1,
+            "chartType": "LineChart",
+            "name": "Line Chart"
+        },
+        {
+            "id": 2,
+            "chartType": "BarChart",
+            "name": "Bar Chart"
+        },
+        {
+            "id": 3,
+            "chartType": "PieChart",
+            "name": "Pie Chart"
+        },
+        {
+            "id": 4,
+            "chartType": "ScatterChart",
+            "name": "Scatter Chart"
+        },
+        {
+            "id": 5,
+            "chartType": "AreaChart",
+            "name": "Area Chart"
+        },
+        {
+            "id": 6,
+            "chartType": "BubbleChart",
+            "name": "Bubble Chart"
+        },
+        {
+            "id": 7,
+            "chartType": "Histogram",
+            "name": "Histogram"
+        }
+    ],
+    "chartDataSetOne": [
+        [
+            "Year",
+            "Visitations"
+        ],
+        [
+            "2010",
+            10
+        ],
+        [
+            "2020",
+            14
+        ],
+        [
+            "2030",
+            16
+        ],
+        [
+            "2040",
+            22
+        ],
+        [
+            "2050",
+            28
+        ],
+        [
+            "2060",
+            28
+        ]
+    ],
+    "chartDataSetTwo": [
+        [
+            "Year",
+            "Sales",
+            "Expenses"
+        ],
+        [
+            "2013",
+            1000,
+            400
+        ],
+        [
+            "2014",
+            1170,
+            460
+        ],
+        [
+            "2015",
+            660,
+            1120
+        ],
+        [
+            "2016",
+            1030,
+            540
+        ]
+    ],
+    "chartDataSetThree": [
+        [
+            "Year",
+            "Sales",
+            "Expenses",
+            "Demand"
+        ],
+        [
+            "2013",
+            1000,
+            400,
+            5000
+        ],
+        [
+            "2014",
+            1170,
+            460,
+            4000
+        ],
+        [
+            "2015",
+            660,
+            1120,
+            6000
+        ],
+        [
+            "2016",
+            1030,
+            540,
+            7000
+        ],
+        [
+            "2017",
+            1030,
+            540,
+            7500
+        ],
+        [
+            "2018",
+            1030,
+            540,
+            8000
+        ],
+        [
+            "2019",
+            1030,
+            540,
+            10000
+        ]
+    ],
+    "chartDataSetFour": [
+        [
+            "Year",
+            "Sales",
+            "Expenses",
+            "Demand",
+            "Supply"
+        ],
+        [
+            "2013",
+            1000,
+            400,
+            5000,
+            4000
+        ],
+        [
+            "2014",
+            1170,
+            460,
+            4000,
+            4100
+        ],
+        [
+            "2015",
+            660,
+            1120,
+            6000,
+            4500
+        ],
+        [
+            "2016",
+            1030,
+            540,
+            7000,
+            6000
+        ],
+        [
+            "2017",
+            1030,
+            540,
+            7500,
+            7000
+        ],
+        [
+            "2018",
+            1030,
+            540,
+            8000,
+            7500
+        ],
+        [
+            "2019",
+            1030,
+            540,
+            10000,
+            9900
+        ]
+    ],
+    "geoChart": [
+        [
+            "Country",
+            "Popularity"
+        ],
+        [
+            "Germany",
+            200
+        ],
+        [
+            "United States",
+            300
+        ],
+        [
+            "Brazil",
+            400
+        ],
+        [
+            "Canada",
+            500
+        ],
+        [
+            "France",
+            600
+        ],
+        [
+            "RU",
+            700
+        ]
+    ]
+}
